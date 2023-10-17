@@ -1,0 +1,54 @@
+exo 1
+select nom, annéeNaiss from artiste where annéeNaiss<1950
+exo 2
+SELECT titre FROM film WHERE genre = 'Drame';
+exo 3
+SELECT nomRôle FROM role WHERE idActeur = 'Bruce Willis';
+exo 4
+select idRéalisateur from film where idfilm = 'Memento'
+exo 5
+select note, titre from notation natural join film where titre = 'Fargo'
+exo 6
+SELECT nom, prénom, nomrôle FROM artiste NATURAL JOIN role WHERE nomrôle = 'Chewbacca';
+exo 7
+
+exo 8
+
+exo 9
+
+exo 10
+
+exo 11
+
+exo 12
+
+exo 13
+
+exo 14
+
+exo 15
+
+exo 16
+
+exo 17
+
+exo 18
+
+exo 19
+
+exo 20
+
+exo 21
+
+exo 22
+
+exo 23
+
+
+
+
+
+
+
+
+
